@@ -1,0 +1,261 @@
+2022-05-17 12:05:407 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:597 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (1c650a280e27fd4f19e7600c121a4e47)] -> link text: Log in]
+2022-05-17 12:05:174 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (1c650a280e27fd4f19e7600c121a4e47)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 12:05:481 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:971 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (57f90254d5108bad101412aeb3580a3c)] -> link text: Log in]
+2022-05-17 12:05:552 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 12:05:692 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 12:05:848 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (57f90254d5108bad101412aeb3580a3c)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:394 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (57f90254d5108bad101412aeb3580a3c)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:529 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:537 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (8c1a7f1032b991c82216a51f22f5efbc)] -> link text: Log in]
+2022-05-17 12:05:132 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 12:05:284 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 12:05:415 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (8c1a7f1032b991c82216a51f22f5efbc)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:960 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (8c1a7f1032b991c82216a51f22f5efbc)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:64 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:733 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (8e90fb5b571ca3f71621e510cd5d6a04)] -> link text: Log in]
+2022-05-17 12:05:301 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 12:05:441 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 12:05:599 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (8e90fb5b571ca3f71621e510cd5d6a04)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:131 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (8e90fb5b571ca3f71621e510cd5d6a04)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:309 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:902 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (512fff9966cd9ff8591e93008c455406)] -> link text: Log in]
+2022-05-17 12:05:488 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :Lalita1237@gmail.comto email address field
+2022-05-17 12:05:632 INFO  LoginPage :44 - enter the 'PASSWORD' :Lalita123to password field
+2022-05-17 12:05:782 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (512fff9966cd9ff8591e93008c455406)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:307 INFO  LoginPage :64 - get the 'LOGOUT' link :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 12:05:923 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:169 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (4e8f238165e52de200ee23f7e8449f83)] -> link text: Log in]
+2022-05-17 12:05:786 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (4e8f238165e52de200ee23f7e8449f83)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 12:05:854 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:576 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (3cc214cd93c4826693c98823bd0caecf)] -> link text: Log in]
+2022-05-17 12:05:147 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 12:05:273 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 12:05:423 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (3cc214cd93c4826693c98823bd0caecf)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:923 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (3cc214cd93c4826693c98823bd0caecf)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:855 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:611 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (dba2ea181ec179f8a305a5e8b2c037dd)] -> link text: Log in]
+2022-05-17 12:05:202 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 12:05:314 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 12:05:456 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (dba2ea181ec179f8a305a5e8b2c037dd)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:986 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (dba2ea181ec179f8a305a5e8b2c037dd)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:945 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:398 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (0d3d23b91944d0059a1d8b663960f82a)] -> link text: Log in]
+2022-05-17 12:05:933 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 12:05:52 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 12:05:196 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (0d3d23b91944d0059a1d8b663960f82a)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:711 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (0d3d23b91944d0059a1d8b663960f82a)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:627 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:984 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (7dc8c395efb49b51738396a56302d034)] -> link text: Log in]
+2022-05-17 12:05:540 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :Lalita1237@gmail.comto email address field
+2022-05-17 12:05:666 INFO  LoginPage :44 - enter the 'PASSWORD' :Lalita123to password field
+2022-05-17 12:05:796 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (7dc8c395efb49b51738396a56302d034)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:508 INFO  LoginPage :64 - get the 'LOGOUT' link :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 12:05:473 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:963 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (27b6e34607646e50793719c034d6d33e)] -> link text: Log in]
+2022-05-17 12:05:701 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :Lalita1237@gmail.comto email address field
+2022-05-17 12:05:870 INFO  LoginPage :44 - enter the 'PASSWORD' :Lalita123to password field
+2022-05-17 12:05:50 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (27b6e34607646e50793719c034d6d33e)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:648 INFO  LoginPage :69 - click on 'LOGOUT' button :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 12:05:321 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:385 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (3ac4b8a86ec4759e484a725f7515aab8)] -> link text: Log in]
+2022-05-17 12:05:845 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (3ac4b8a86ec4759e484a725f7515aab8)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 12:05:777 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:857 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (61b072ca82bc8db6496ba7d41d39fad1)] -> link text: Log in]
+2022-05-17 12:05:449 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 12:05:605 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 12:05:765 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (61b072ca82bc8db6496ba7d41d39fad1)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:465 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (61b072ca82bc8db6496ba7d41d39fad1)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:447 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:168 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (905eb0918cf21167619195869e7152a0)] -> link text: Log in]
+2022-05-17 12:05:749 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 12:05:937 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 12:05:100 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (905eb0918cf21167619195869e7152a0)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:624 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (905eb0918cf21167619195869e7152a0)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:686 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:847 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (a4c3c17d87ea927f6a91a5b7e4ee4110)] -> link text: Log in]
+2022-05-17 12:05:484 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 12:05:628 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 12:05:776 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (a4c3c17d87ea927f6a91a5b7e4ee4110)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:345 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (a4c3c17d87ea927f6a91a5b7e4ee4110)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 12:05:467 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:564 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (294cf756443db63408eee82ab8e5d6d1)] -> link text: Log in]
+2022-05-17 12:05:258 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz@gmail.comto email address field
+2022-05-17 12:05:391 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 12:05:565 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (294cf756443db63408eee82ab8e5d6d1)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 12:05:57 INFO  LoginPage :64 - get the 'LOGOUT' link :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 12:05:182 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 12:05:193 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (316132b89b7d002e1fc42eee55c9c39c)] -> link text: Log in]
+2022-05-17 12:05:183 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz@gmail.comto email address field
+2022-05-17 12:05:354 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 12:05:593 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (316132b89b7d002e1fc42eee55c9c39c)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:26 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:29 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (2aeff21f9c1792e043fb0d5100e98cdb)] -> link text: Log in]
+2022-05-17 18:05:615 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (2aeff21f9c1792e043fb0d5100e98cdb)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 18:05:428 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:526 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (7b43a3562107ebb9a89087f287433798)] -> link text: Log in]
+2022-05-17 18:05:54 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 18:05:143 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 18:05:235 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (7b43a3562107ebb9a89087f287433798)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:651 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (7b43a3562107ebb9a89087f287433798)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:436 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:921 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (b7f8b37c3c4b25d70296c153e72d4104)] -> link text: Log in]
+2022-05-17 18:05:493 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 18:05:628 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 18:05:772 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (b7f8b37c3c4b25d70296c153e72d4104)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:285 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (b7f8b37c3c4b25d70296c153e72d4104)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:191 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:588 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (1065cf44ed5f1b62d0281cb0e689e85d)] -> link text: Log in]
+2022-05-17 18:05:190 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 18:05:316 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 18:05:448 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (1065cf44ed5f1b62d0281cb0e689e85d)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:983 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (1065cf44ed5f1b62d0281cb0e689e85d)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:836 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:611 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (5db5ae14bec321816bff9d8dc4fde9ee)] -> link text: Log in]
+2022-05-17 18:05:300 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 18:05:416 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 18:05:546 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (5db5ae14bec321816bff9d8dc4fde9ee)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:286 INFO  LoginPage :64 - get the 'LOGOUT' link :[[ChromeDriver: chrome on WINDOWS (5db5ae14bec321816bff9d8dc4fde9ee)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 18:05:92 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:509 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (e13373ee5789c52a5f3f028c62ac0c59)] -> link text: Log in]
+2022-05-17 18:05:111 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 18:05:228 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 18:05:368 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (e13373ee5789c52a5f3f028c62ac0c59)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:180 INFO  LoginPage :69 - click on 'LOGOUT' button :[[ChromeDriver: chrome on WINDOWS (e13373ee5789c52a5f3f028c62ac0c59)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 18:05:878 INFO  HomePage :33 - get the 'LOGIN LINK' : [[ChromeDriver: chrome on WINDOWS (e13373ee5789c52a5f3f028c62ac0c59)] -> link text: Log in]
+2022-05-17 18:05:665 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:496 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (4621c0b279c3583392428d2ae3039864)] -> link text: Log in]
+2022-05-17 18:05:185 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (4621c0b279c3583392428d2ae3039864)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 18:05:944 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:739 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (7d0f9c7450f225c7312f0e28dc1a23d0)] -> link text: Log in]
+2022-05-17 18:05:228 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 18:05:312 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 18:05:403 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (7d0f9c7450f225c7312f0e28dc1a23d0)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:821 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (7d0f9c7450f225c7312f0e28dc1a23d0)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:566 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:414 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (8b2229dcbb62f4085427bee919c54c46)] -> link text: Log in]
+2022-05-17 18:05:364 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 18:05:438 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 18:05:521 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (8b2229dcbb62f4085427bee919c54c46)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:937 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (8b2229dcbb62f4085427bee919c54c46)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:694 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:953 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (7713eae1395229eb84d2d75c13b8d925)] -> link text: Log in]
+2022-05-17 18:05:406 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 18:05:482 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 18:05:565 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (7713eae1395229eb84d2d75c13b8d925)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:962 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (7713eae1395229eb84d2d75c13b8d925)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:695 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:799 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (69934dc2db83df7dfcb87c3ecd109a07)] -> link text: Log in]
+2022-05-17 18:05:754 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 18:05:854 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 18:05:972 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (69934dc2db83df7dfcb87c3ecd109a07)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:741 INFO  LoginPage :64 - get the 'LOGOUT' link :[[ChromeDriver: chrome on WINDOWS (69934dc2db83df7dfcb87c3ecd109a07)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 18:05:425 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:976 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (56e0a1adf5d7cad278fe6d5b8d1759c1)] -> link text: Log in]
+2022-05-17 18:05:696 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 18:05:800 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 18:05:926 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (56e0a1adf5d7cad278fe6d5b8d1759c1)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:671 INFO  LoginPage :69 - click on 'LOGOUT' button :[[ChromeDriver: chrome on WINDOWS (56e0a1adf5d7cad278fe6d5b8d1759c1)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 18:05:397 INFO  HomePage :33 - get the 'LOGIN LINK' : [[ChromeDriver: chrome on WINDOWS (56e0a1adf5d7cad278fe6d5b8d1759c1)] -> link text: Log in]
+2022-05-17 18:05:166 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:55 INFO  HomePage :38 - click on 'loginLink' link :[[ChromeDriver: chrome on WINDOWS (9f5673d9056f114bd7642820138bab22)] -> link text: Log in]
+2022-05-17 18:05:653 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (9f5673d9056f114bd7642820138bab22)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 18:05:413 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:255 INFO  HomePage :38 - click on 'loginLink' link :[[ChromeDriver: chrome on WINDOWS (f4a965628a6ad9648a72912d96a24aac)] -> link text: Log in]
+2022-05-17 18:05:746 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 18:05:826 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 18:05:914 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (f4a965628a6ad9648a72912d96a24aac)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:343 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (f4a965628a6ad9648a72912d96a24aac)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:60 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:855 INFO  HomePage :38 - click on 'loginLink' link :[[ChromeDriver: chrome on WINDOWS (41372e6e690893b1042431750b388380)] -> link text: Log in]
+2022-05-17 18:05:349 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 18:05:434 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 18:05:518 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (41372e6e690893b1042431750b388380)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:921 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (41372e6e690893b1042431750b388380)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:650 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:697 INFO  HomePage :38 - click on 'loginLink' link :[[ChromeDriver: chrome on WINDOWS (1766246b5b42d13599ef497e6a24398f)] -> link text: Log in]
+2022-05-17 18:05:176 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 18:05:256 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 18:05:341 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (1766246b5b42d13599ef497e6a24398f)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:758 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (1766246b5b42d13599ef497e6a24398f)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:496 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:760 INFO  HomePage :38 - click on 'loginLink' link :[[ChromeDriver: chrome on WINDOWS (ca4467800e4fed90ed2ae0c1af931089)] -> link text: Log in]
+2022-05-17 18:05:344 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 18:05:453 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 18:05:588 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (ca4467800e4fed90ed2ae0c1af931089)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:355 INFO  LoginPage :64 - get the 'LOGOUT' link :[[ChromeDriver: chrome on WINDOWS (ca4467800e4fed90ed2ae0c1af931089)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 18:05:233 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 18:05:08 INFO  HomePage :38 - click on 'loginLink' link :[[ChromeDriver: chrome on WINDOWS (6cd9a48fcb21724e5466397093c16159)] -> link text: Log in]
+2022-05-17 18:05:573 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 18:05:681 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 18:05:802 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (6cd9a48fcb21724e5466397093c16159)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 18:05:519 INFO  LoginPage :69 - click on 'LOGOUT' button :[[ChromeDriver: chrome on WINDOWS (6cd9a48fcb21724e5466397093c16159)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 18:05:193 INFO  HomePage :33 - get the 'LOGIN LINK' : [[ChromeDriver: chrome on WINDOWS (6cd9a48fcb21724e5466397093c16159)] -> link text: Log in]
+2022-05-17 21:05:204 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:361 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (f9e18fdfbdfd7ae8169a7cd49f847480)] -> link text: Log in]
+2022-05-17 21:05:996 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (f9e18fdfbdfd7ae8169a7cd49f847480)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 21:05:41 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:733 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (50069edae3598ab2bcc048e0f07a6961)] -> link text: Log in]
+2022-05-17 21:05:571 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 21:05:665 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 21:05:760 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (50069edae3598ab2bcc048e0f07a6961)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:223 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (50069edae3598ab2bcc048e0f07a6961)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 21:05:261 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:471 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (cdbfeee34df8987b3216369d12b96269)] -> link text: Log in]
+2022-05-17 21:05:24 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 21:05:158 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 21:05:281 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (cdbfeee34df8987b3216369d12b96269)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:819 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (cdbfeee34df8987b3216369d12b96269)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 21:05:875 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:138 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (b6ecc4946033bbb0bfd09b9d07326b0c)] -> link text: Log in]
+2022-05-17 21:05:81 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 21:05:188 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 21:05:332 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (b6ecc4946033bbb0bfd09b9d07326b0c)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:869 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (b6ecc4946033bbb0bfd09b9d07326b0c)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 21:05:922 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:388 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (04ff301d80f724aff9af9b04f4fe6b8b)] -> link text: Log in]
+2022-05-17 21:05:917 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 21:05:25 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 21:05:177 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (04ff301d80f724aff9af9b04f4fe6b8b)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:854 INFO  LoginPage :64 - get the 'LOGOUT' link :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 21:05:131 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:583 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (cacf0f814b05e6a58ea9407c48847479)] -> link text: Log in]
+2022-05-17 21:05:528 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp2@gmail.comto email address field
+2022-05-17 21:05:596 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 21:05:665 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (cacf0f814b05e6a58ea9407c48847479)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:64 INFO  LoginPage :69 - click on 'LOGOUT' button :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 21:05:497 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:704 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (5bd8b7a7ce4db1e4390f9211777dd283)] -> link text: Log in]
+2022-05-17 21:05:157 INFO  LoginPage :59 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (5bd8b7a7ce4db1e4390f9211777dd283)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 21:05:195 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:858 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (13947986715c082df7ac251fb2c286ad)] -> link text: Log in]
+2022-05-17 21:05:337 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-17 21:05:459 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz1234to password field
+2022-05-17 21:05:558 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (13947986715c082df7ac251fb2c286ad)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:956 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (13947986715c082df7ac251fb2c286ad)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 21:05:988 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:954 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (5bcec7c74600d670dcd35480f6a3bcc5)] -> link text: Log in]
+2022-05-17 21:05:501 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-17 21:05:606 INFO  LoginPage :44 - enter the 'PASSWORD' :abc123to password field
+2022-05-17 21:05:748 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (5bcec7c74600d670dcd35480f6a3bcc5)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:256 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (5bcec7c74600d670dcd35480f6a3bcc5)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 21:05:321 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:684 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (2c6a95a93ab4d09cb7f847b31c3cf73b)] -> link text: Log in]
+2022-05-17 21:05:264 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-17 21:05:371 INFO  LoginPage :44 - enter the 'PASSWORD' :xyz123to password field
+2022-05-17 21:05:528 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (2c6a95a93ab4d09cb7f847b31c3cf73b)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:996 INFO  LoginPage :54 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (2c6a95a93ab4d09cb7f847b31c3cf73b)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 21:05:40 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:412 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (699bb87775db8a58c850e7d044d74ac8)] -> link text: Log in]
+2022-05-17 21:05:931 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp3@gmail.comto email address field
+2022-05-17 21:05:57 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 21:05:181 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (699bb87775db8a58c850e7d044d74ac8)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:925 INFO  LoginPage :64 - get the 'LOGOUT' link :[[ChromeDriver: chrome on WINDOWS (699bb87775db8a58c850e7d044d74ac8)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 21:05:996 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-17 21:05:127 INFO  HomePage :38 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (6dd2553df72a5a42b66bccb50aae97b6)] -> link text: Log in]
+2022-05-17 21:05:728 INFO  LoginPage :39 - enter the 'EMAIL ADDRESS' :xyp3@gmail.comto email address field
+2022-05-17 21:05:859 INFO  LoginPage :44 - enter the 'PASSWORD' :Abc123to password field
+2022-05-17 21:05:985 INFO  LoginPage :49 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (6dd2553df72a5a42b66bccb50aae97b6)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-17 21:05:720 INFO  LoginPage :69 - click on 'LOGOUT' button :[[ChromeDriver: chrome on WINDOWS (6dd2553df72a5a42b66bccb50aae97b6)] -> xpath: //a[contains(text(),'Log out')]]
+2022-05-17 21:05:535 INFO  HomePage :33 - get the 'LOGIN LINK' : [[ChromeDriver: chrome on WINDOWS (6dd2553df72a5a42b66bccb50aae97b6)] -> link text: Log in]
